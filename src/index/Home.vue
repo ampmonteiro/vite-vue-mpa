@@ -8,6 +8,7 @@ defineProps({
 
 <template>
   <AppLayout>
+    <h1>Blog</h1>
     <article v-for="item in data">
       <h2>{{item.title}}</h2>
       <p class="article-info">
