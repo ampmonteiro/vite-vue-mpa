@@ -1,0 +1,31 @@
+[
+    {
+        "title": "First Blog Post by Vue and vite",
+        "content": [
+            "Hi how are you?",
+            "THis first blog using Vue and vite.",
+            "Awesome, ;)"
+        ],
+        "date": "2023-01",
+        "id": 1
+    },
+    {
+        "title": "Second Blog Post by Vue and vite",
+        "content": [
+            "Crazy second post",
+            "Lets hope this work",
+            "Awesome, ;)"
+        ],
+        "date": "2023-02",
+        "id": 2
+    },
+    {
+        "title": "Vite + Vue = Awesome MPA ",
+        "content": [
+            "You should  try.",
+            "So Easy. Nothing special"
+        ],
+        "date": "2023-02",
+        "id": 3
+    }
+]
